@@ -1,4 +1,4 @@
-# Thiago Silva de Souza
+# Thiago Soutelo
 
 Sou estudante de Sistemas de Informação em busca de expandir meu conhecimento 
 e habilidades na área de tecnologia. Sou curioso e autodidata, sempre em busca de 
