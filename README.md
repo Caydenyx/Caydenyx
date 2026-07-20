@@ -52,7 +52,7 @@ Implementação de monitoramento proativo numa instituição de ensino com múlt
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 | Empresa | Cargo | Período |
 |---|---|---|
@@ -66,7 +66,7 @@ Implementação de monitoramento proativo numa instituição de ensino com múlt
 
 ## 📚 Estudando agora
 
-- 🐧 Linux avançado — LinuxTips
+- 🐧 Linux avançado 
 - 🐳 Docker e Docker Compose
 - ☸️ Kubernetes
 - ☁️ AWS na prática
