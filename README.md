@@ -1,6 +1,6 @@
 # Thiago Soutelo — Infrastructure & DevOps
 
-**Analista de TI | Infraestrutura • Redes • Monitoramento | Em transição para DevOps & Cloud**
+**Analista de TI | Infraestrutura • Redes • Monitoramento | DevOps & Cloud**
 
 📍 Manaus, AM — Brasil
 🔗 [LinkedIn](https://linkedin.com/in/thiagosoutelo)
@@ -66,7 +66,7 @@ Implementação de monitoramento proativo numa instituição de ensino com múlt
 
 ## 📚 Estudando agora
 
-- 🐧 Linux avançado — LinuxTips
+- 🐧 Linux avançado —
 - 🐳 Docker e Docker Compose
 - ☸️ Kubernetes
 - ☁️ AWS na prática
