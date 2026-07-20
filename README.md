@@ -1,6 +1,6 @@
 # Thiago Soutelo — Infrastructure & DevOps
 
-**Analista de TI | Infraestrutura • Redes • Monitoramento | Em transição para DevOps & Cloud**
+**Analista de TI | Infraestrutura • Redes • Monitoramento | DevOps & Cloud**
 
 📍 Manaus, AM — Brasil
 🔗 [LinkedIn](https://linkedin.com/in/thiagosoutelo)
