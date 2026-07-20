@@ -1,4 +1,4 @@
-# Thiago Soutelo — Infrastructure & DevOps
+**# Thiago Soutelo — Infrastructure & DevOps**
 
 **Analista de TI | Infraestrutura • Redes • Monitoramento | DevOps & Cloud**
 
