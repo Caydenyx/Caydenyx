@@ -56,11 +56,11 @@ Implementação de monitoramento proativo numa instituição de ensino com múlt
 
 | Empresa | Cargo | Período |
 |---|---|---|
-| Grupo Norte de Comunicação (SBT) | Analista de TI Jr. | Jun/2026 — atual |
+| Grupo Norte de Comunicação (SBT) | Analista de TI  | Jun/2026 — atual |
 | Fundação Matias Machline | Analista de TI | Fev/2025 — Abr/2026 |
 | ATX Tecnologia | Analista de Infraestrutura | Nov/2023 — Jan/2025 |
-| Grupo Bastazini | Estagiário de TI | Fev/2023 — Nov/2023 |
-| Soutelo Tecnologia | Consultor Autônomo | Fev/2022 — atual |
+| Grupo Bastazini | TI | Fev/2023 — Nov/2023 |
+| Soutelo Tecnologia | ITSM | Fev/2022 — atual |
 
 ---
 
