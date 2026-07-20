@@ -1,34 +1,81 @@
-# Thiago Soutelo
+# Thiago Soutelo — Infrastructure & DevOps
 
-Sou estudante de Sistemas de Informação em busca de expandir meu conhecimento 
-e habilidades na área de tecnologia. Sou curioso e autodidata, sempre em busca de 
-aprendizado e novos jeitos de pensar. Tenho conhecimento em Suporte, Python, 
-SQL, Windows Server, Redes, MySQL, HTML, SQL e AWS. Desejo um ambiente profissional que 
-me permita aplicar e desenvolver minhas hard e soft skills.
+**Analista de TI | Infraestrutura • Redes • Monitoramento | Em transição para DevOps & Cloud**
 
-## Conecte-se comigo
+📍 Manaus, AM — Brasil
+🔗 [LinkedIn](https://linkedin.com/in/thiagosoutelo)
+📧 soutelothiago@gmail.com
 
-[![E-mail](https://img.shields.io/badge/-Email-E94D5F?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:soutelothiago@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagosoutelo/)
+---
 
-## Habilidades
+## 🛠️ Stack atual
 
-### Linguagens de Programação
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+**Infraestrutura & Redes**
 
-### Bancos de Dados
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-blue)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20CentOS-orange)
+![Windows Server](https://img.shields.io/badge/Windows_Server-2019%2F2022-blue)
+![Active Directory](https://img.shields.io/badge/Active_Directory-LDAP-blue)
+![VPN](https://img.shields.io/badge/VPN-Site--to--Site%20%7C%20OpenVPN-green)
 
-### Servidores e Redes
-[![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/cloud-platform/windows-server)
-[![Redes](https://img.shields.io/badge/Redes-FFA500?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
+**Monitoramento & Observabilidade**
 
-### Cloud
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-red)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-orange)
 
-### Controle de Versão
-[![Git](https://img.shields.io/badge/Git-E94D5F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
+**Cloud & DevOps (em desenvolvimento)**
+
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-yellow)
+![Docker](https://img.shields.io/badge/Docker-Studying-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Studying-blue)
+
+**Linguagens & Banco de Dados**
+
+![Python](https://img.shields.io/badge/Python-Automation-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+
+---
+
+## 🚀 Projeto em destaque
+
+### 📡 Monitoramento de Redes — Zabbix + Grafana + WPPConecta
+Implementação de monitoramento proativo numa instituição de ensino com múltiplos campi.
+
+- Zabbix com **LLD (Low-Level Discovery)** para descoberta automática de portas SFP e Ethernet em switches core
+- Detecção de degradação, latência e loops **antes** de virarem incidentes
+- Alertas em tempo real via **WhatsApp** usando WPPConecta
+- Dashboards no **Grafana** para visualização contínua
+
+> Resultado: incidentes noturnos que levavam horas para ser descobertos passaram a ser alertados em minutos.
+
+---
+
+## 💼 Experiência
+
+| Empresa | Cargo | Período |
+|---|---|---|
+| Grupo Norte de Comunicação (SBT) | Analista de TI Jr. | Jun/2026 — atual |
+| Fundação Matias Machline | Analista de TI | Fev/2025 — Abr/2026 |
+| ATX Tecnologia | Analista de Infraestrutura | Nov/2023 — Jan/2025 |
+| Grupo Bastazini | Estagiário de TI | Fev/2023 — Nov/2023 |
+| Soutelo Tecnologia | Consultor Autônomo | Fev/2022 — atual |
+
+---
+
+## 📚 Estudando agora
+
+- 🐧 Linux avançado — LinuxTips
+- 🐳 Docker e Docker Compose
+- ☸️ Kubernetes
+- ☁️ AWS na prática
+
+---
+
+## 📊 Banco de Dados — Projeto SQL ERP
+
+Arquitetura de banco de dados do zero para ERP de PDV em PostgreSQL.
+Modelagem conceitual e lógica, desenvolvida com práticas atuais de banco de dados.
+
+→ [Ver repositório SQL-MVP-ERP](https://github.com/Caydenyx/SQL-MVP-ERP)
