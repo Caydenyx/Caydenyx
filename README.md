@@ -1,81 +1,72 @@
-# Thiago Soutelo — Infrastructure & DevOps
+# Thiago Soutelo
 
-**Analista de TI | Infraestrutura • Redes • Monitoramento | DevOps & Cloud**
+### Infrastructure Analyst | Observability | Cloud & DevOps
 
-📍 Manaus, AM — Brasil
-🔗 [LinkedIn](https://linkedin.com/in/thiagosoutelo)
-📧 soutelothiago@gmail.com
-
----
-
-## 🛠️ Stack atual
-
-**Infraestrutura & Redes**
-
-![pfSense](https://img.shields.io/badge/pfSense-Firewall-blue)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20CentOS-orange)
-![Windows Server](https://img.shields.io/badge/Windows_Server-2019%2F2022-blue)
-![Active Directory](https://img.shields.io/badge/Active_Directory-LDAP-blue)
-![VPN](https://img.shields.io/badge/VPN-Site--to--Site%20%7C%20OpenVPN-green)
-
-**Monitoramento & Observabilidade**
-
-![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-red)
-![Grafana](https://img.shields.io/badge/Grafana-Dashboards-orange)
-
-**Cloud & DevOps (em desenvolvimento)**
-
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-yellow)
-![Docker](https://img.shields.io/badge/Docker-Studying-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Studying-blue)
-
-**Linguagens & Banco de Dados**
-
-![Python](https://img.shields.io/badge/Python-Automation-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+📍 Manaus, AM — Brasil  
+🔗 [LinkedIn](https://linkedin.com/in/thiagosoutelo) | 📧 soutelothiago@gmail.com | 🌐 [GitHub](https://github.com/caydenyx)
 
 ---
 
-## 🚀 Projeto em destaque
+## 👨‍💻 Sobre mim
 
-### 📡 Monitoramento de Redes — Zabbix + Grafana + WPPConecta
-Implementação de monitoramento proativo numa instituição de ensino com múltiplos campi.
+Profissional de Infraestrutura de TI com experiência em **Monitoramento (NOC), Redes, Administração de Servidores (Linux/Windows) e Segurança**. 
 
-- Zabbix com **LLD (Low-Level Discovery)** para descoberta automática de portas SFP e Ethernet em switches core
-- Detecção de degradação, latência e loops **antes** de virarem incidentes
-- Alertas em tempo real via **WhatsApp** usando WPPConecta
-- Dashboards no **Grafana** para visualização contínua
+Atualmente atuo na área de TI do **Grupo Norte de Comunicação (SBT)**, gerenciando ambientes críticos, firewall pfSense, múltiplos links WAN e ativos de rede. Também sou fundador da **Soutelo Tecnologia**, desenvolvendo projetos de infraestrutura de TI.
 
-> Resultado: incidentes noturnos que levavam horas para ser descobertos passaram a ser alertados em minutos.
+Estou evoluindo minha atuação para **Infraestrutura Moderna, Observabilidade Avançada e Cloud/DevOps**, focando em automação, conteinerização e infraestrutura como código (IaC).
 
 ---
 
-## Experiência
+## 🚀 Projeto em Destaque
 
-| Empresa | Cargo | Período |
-|---|---|---|
-| Grupo Norte de Comunicação (SBT) | Analista de TI  | Jun/2026 — atual |
-| Fundação Matias Machline | Analista de TI | Fev/2025 — Abr/2026 |
-| ATX Tecnologia | Analista de Infraestrutura | Nov/2023 — Jan/2025 |
-| Grupo Bastazini | TI | Fev/2023 — Nov/2023 |
-| Soutelo Tecnologia | ITSM | Fev/2022 — atual |
+### 📡 Observability Platform — Zabbix + Grafana + WPPConecta
+*Implantação de monitoramento proativo de alta disponibilidade em ambiente de múltiplos campi.*
 
----
+- **Network Discovery (LLD):** Descoberta automática via SNMP de interfaces de rede e switches core.
+- **Alertas Automatizados:** Bot de alertas em tempo real desenvolvido em **Node.js** e integrado via webhook ao WhatsApp (WPPConecta).
+- **Proatividade:** Detecção de degradação, oscilações de latência e falhas de hardware antes do impacto ao usuário final.
+- **Dashboards:** Painéis operacionais e executivos personalizados no Grafana.
 
-## 📚 Estudando agora
-
-- 🐧 Linux avançado 
-- 🐳 Docker e Docker Compose
-- ☸️ Kubernetes
-- ☁️ AWS na prática
+> **Tech Stack do Projeto:** Zabbix 7 | Grafana | Linux (Ubuntu) | Node.js | SNMP | pfSense | Webhooks
 
 ---
 
-## 📊 Banco de Dados — Projeto SQL ERP
+## 🛠️ Tecnologias & Habilidades
 
-Arquitetura de banco de dados do zero para ERP de PDV em PostgreSQL.
-Modelagem conceitual e lógica, desenvolvida com práticas atuais de banco de dados.
+### 📊 Observabilidade & Monitoramento
+`Zabbix` `Grafana` `SNMP` `LLD` `Triggers & Dashboards` `GLPI` `ServiceNow`
 
-→ [Ver repositório SQL-MVP-ERP](https://github.com/Caydenyx/SQL-MVP-ERP)
+### 🌐 Redes, Firewall & Segurança
+`pfSense` `FortiGate` `TCP/IP` `VLAN` `DNS/DHCP` `VPN (OpenVPN / Site-to-Site)` `Multi-WAN` `RTSP / RTMP` `Nmap` `Netstat`
+
+### 🖥️ Sistemas & Servidores
+`Linux (Ubuntu/CentOS)` `Windows Server 2016-2022` `Active Directory` `Hyper-V` `VMware`
+
+### ☁️ Cloud, Containers & Automação (Foco Atual)
+`AWS` `Docker & Docker Compose` `Kubernetes` `Git & GitHub` `Python` `Shell Script (Bash)` `Node.js` `SQL (PostgreSQL / MySQL)`
+
+---
+
+## 📚 Projetos & Repositórios
+
+- **[SQL-MVP-ERP](https://github.com/Caydenyx/SQL-MVP-ERP):** Modelagem e arquitetura relacional de banco de dados do zero para ERP/PDV utilizando PostgreSQL.
+- **Zabbix + WPPConecta Bot:** (Em documentação) Scripts em Node.js e configurações para integração de alertas do Zabbix no WhatsApp.
+
+---
+
+## 📜 Certificações em Destaque
+
+- **Cisco:** Networking Basics & Introduction to Cybersecurity
+- **Hikvision:** HCSA (Hikvision Certified Security Associate)
+- **IPOG:** SQL Básico ao Avançado & PostgreSQL
+- **AWS:** Cloud Practitioner Discovery Day (Ka Solution)
+- **ITSM/ITIL:** IT Support Management (Udemy)
+
+---
+
+## 🎯 Meta de Aprendizado Atual
+
+- [ ] Aprofundamento em **Linux Administration** (LinuxTips)
+- [ ] Conteinerização de aplicações com **Docker & Docker Compose**
+- [ ] Orquestração com **Kubernetes**
+- [ ] Infraestrutura como Código (IaC) com **Terraform & Ansible**
