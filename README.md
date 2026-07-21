@@ -11,7 +11,7 @@
 
 Profissional de Infraestrutura de TI com experiência em **Monitoramento (NOC), Redes, Administração de Servidores (Linux/Windows) e Segurança**. 
 
-Atualmente atuo na área de TI do **Grupo Norte de Comunicação (SBT)**, gerenciando ambientes críticos, firewall pfSense, múltiplos links WAN e ativos de rede. Também sou fundador da **Soutelo Tecnologia**, desenvolvendo projetos de infraestrutura de TI.
+Atualmente atuo na área de TI gerenciando ambientes críticos, firewall pfSense, múltiplos links WAN e ativos de rede. Também sou fundador da **Soutelo Tecnologia**, desenvolvendo projetos de infraestrutura de TI.
 
 Estou evoluindo minha atuação para **Infraestrutura Moderna, Observabilidade Avançada e Cloud/DevOps**, focando em automação, conteinerização e infraestrutura como código (IaC).
 
