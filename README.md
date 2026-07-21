@@ -50,7 +50,7 @@ Estou evoluindo minha atuação para **Infraestrutura Moderna, Observabilidade A
 ## 📚 Projetos & Repositórios
 
 - **[SQL-MVP-ERP](https://github.com/Caydenyx/SQL-MVP-ERP):** Modelagem e arquitetura relacional de banco de dados do zero para ERP/PDV utilizando PostgreSQL.
-- **[Zabbix + WPPConecta Bot]:(https://github.com/Caydenyx/zabbix-network-observability-fmm):** Scripts em Node.js e configurações para integração de alertas do Zabbix no WhatsApp.
+- **[Zabbix + WPPConecta Bot](https://github.com/Caydenyx/zabbix-network-observability-fmm):** Scripts em Node.js e configurações para integração de alertas do Zabbix no WhatsApp.
 - **[RustDesk AD Mapping & Live Status Panel](https://github.com/Caydenyx/rustdesk-ad-mapping-panel-gnc):** Solução Open Source para mapeamento dinâmico de IDs do RustDesk integrados ao Active Directory com dashboard de status em tempo real.
 
 ---
