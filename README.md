@@ -57,8 +57,9 @@ Estou evoluindo minha atuação para **Infraestrutura Moderna, Observabilidade A
 
 ## 📜 Certificações em Destaque
 
+- **Zabbix & Grafana:** Imersão e Monitoramento 
+- **Hikvision & Intelbras:** HCSA (Hikvision Certified Security Associate) & Técnico em Redes / CFTV IP
 - **Cisco:** Networking Basics & Introduction to Cybersecurity
-- **Hikvision:** HCSA (Hikvision Certified Security Associate)
 - **IPOG:** SQL Básico ao Avançado & PostgreSQL
-- **AWS:** Cloud Practitioner Discovery Day (Ka Solution)
-- **ITSM/ITIL:** IT Support Management (Udemy)
+- **AWS:** Cloud Practitioner 
+- **ITSM/ITIL:** IT Support Management 
