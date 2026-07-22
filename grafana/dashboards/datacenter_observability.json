@@ -1,0 +1,72 @@
+{
+  "annotations": {
+    "list": [
+      {
+        "builtIn": 1,
+        "datasource": {
+          "type": "datasource",
+          "uid": "grafana"
+        },
+        "enable": true,
+        "hide": true,
+        "iconColor": "rgba(0, 211, 255, 1)",
+        "name": "Annotations & Alerts",
+        "type": "dashboard"
+      }
+    ]
+  },
+  "description": "Linux - Zabbix Server",
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 0,
+  "id": 29,
+  "links": [],
+  "panels": [
+    {
+      "collapsed": false,
+      "gridPos": {
+        "h": 1,
+        "w": 24,
+        "x": 0,
+        "y": 0
+      },
+      "id": 22,
+      "panels": [],
+      "title": "🏷️ INFORMAÇÕES BÁSICAS",
+      "type": "row"
+    },
+    {
+      "description": "Enterprise DataCenter - Instituição de Ensino e Tecnologia",
+      "fieldConfig": {
+        "defaults": {},
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 5,
+        "w": 2,
+        "x": 0,
+        "y": 1
+      },
+      "id": 73,
+      "links": [
+        {
+          "targetBlank": true,
+          "title": "Documentacao Interna",
+          "url": "https://wiki.enterprise.local/doc"
+        },
+        {
+          "title": "Portal corporativo",
+          "url": "https://www.enterprise.local/"
+        }
+      ],
+      "options": {
+        "backgroundColor": "rgba(100,100,100,1)",
+        "context": {
+          "height": 447,
+          "image": "data:image/png;base64,[IMAGEM_BASE64_REMOVIDA_PARA_O_GITHUB]"
+        }
+      },
+      "type": "text"
+    }
+  ]
+}
